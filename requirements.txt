@@ -1,0 +1,4 @@
+Python==3.11.9
+flask
+-U  g4f[all]
+gunicorn==20.1.0
