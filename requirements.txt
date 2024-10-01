@@ -1,4 +1,4 @@
-Python==3.10.9
+
 flask
 g4f[all]
 gunicorn==20.1.0
