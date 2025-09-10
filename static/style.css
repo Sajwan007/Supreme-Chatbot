@@ -197,7 +197,7 @@ body, html {
     border-radius: 20px;
     padding: 10px 15px;
     background-color: rgba(255, 255, 255, 0.1);
-    color: #ffffff;
+    color: #fffff;
     resize: none; /* Prevent resizing */
     transition: background-color 0.3s; /* Smooth transition */
     width: 100%; /* Ensure it takes full width */
@@ -322,3 +322,4 @@ body, html {
         display: block; /* Show the menu toggle on mobile */
     }
 }
+
